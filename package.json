@@ -1,0 +1,19 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "test_site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhamadyarov/test.git"
+  },
+  "author": "Marat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhamadyarov/test/issues"
+  },
+  "homepage": "https://github.com/mukhamadyarov/test#readme"
+}
